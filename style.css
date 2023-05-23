@@ -1,0 +1,78 @@
+
+body{
+    padding: 20px;
+}
+h2.z{
+    color:gray;
+    background: lightgray;
+    padding: 5px;
+    margin: 0px;
+}
+
+p
+{
+ padding: 5px;
+ margin: 0px;
+}
+
+p.a
+{
+  background:rgb(58, 54, 235);
+}
+
+p.b
+{
+  background:  rgb(58, 68, 235)
+}
+p.c
+{
+  background: rgb(58, 78, 235);
+}
+p.d
+{
+  background: rgb(66, 88, 204);
+}
+p.e
+{
+  background:rgb(66, 98, 204);
+}
+p.f
+{
+  background:rgb(66, 108, 204);
+}
+p.g
+{
+  background: rgb(66, 128, 204);
+}
+p.h
+{
+  background: rgb(16, 228, 16);
+}
+p.i
+{
+  background: rgb(247, 204, 212);
+}
+p.j
+{
+  background: rgb(250, 194, 204);
+}
+p.k
+{
+  background: rgb(247, 180, 191);
+}
+p.l
+{
+  background: rgb(235, 149, 163);
+}
+p.m
+{
+  background: rgb(235, 135, 144);
+}
+p.n
+{
+  background: rgb(235, 123, 142);
+}
+p.o
+{
+  background: rgb(252, 112, 135);
+}
